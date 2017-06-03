@@ -1,3 +1,10 @@
 /target/**
 *.iml
+*.ipr
+*.iws
+
+.idea/
+
 /.idea/**
+
+*.db
